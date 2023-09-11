@@ -1,0 +1,18 @@
+h1, p {
+    font-family:"Comic Sans ms";
+    text-align:center;
+    color:red;
+}
+
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/1033549149766942830/1036483559436845127/this_is_not_possible.png");
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto; 
+}
